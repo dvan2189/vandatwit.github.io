@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+header a{
+    font-size: 20px;
+    text-align: center;
+    padding-left:600px;
+}
+nav{
+    float:left
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav a{
+    color: #F0F8FF;
+}
+
+nav a:hover{
+    color: #0000FF;
+}
+
+nav a:visited{
+    color: #8B0000;
+}
+
+body{
+    background-color: #808191;
+}
+
+footer{
+    padding-left:750px;
+}
+
+main{
+    padding-left: 350px;
+}
+
+main h3{
+    padding-left:350px;
+}
+
+main img{
+    position:relative;
+    padding-left: 120px;
+}
+
+main p{
+    /*font-family: 'Source Code Pro', monospace;*/
+    font-family: 'Trirong', serif;
+    font-weight: 200px;
+}
+
+header {
+    background-image: url(my_banner.png);
+    background-repeat: no-repeat;
+    height: 100px;
+    background-position: center;
+}
